@@ -14,7 +14,7 @@ part II, calculating the signal differences based on Spectral Domain Analysis (a
 
 ===================================================
 
-## Datasets and Energy minimization algorithms
+## Datasets and Graph Cut algorithm
 
 dataset#2 is download from Professor Michele Volpi's webpage at https://sites.google.com/site/michelevolpiresearch/home.
 
