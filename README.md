@@ -34,7 +34,7 @@ If you use this code for your research, please cite our paper. Thank you!
   author={Sun, Yuli and Lei, Lin and Guan, Dongdong and Kuang, Gangyao and Liu, Li},  
   journal={IEEE Transactions on Geoscience and Remote Sensing},   
   title={Graph Signal Processing for Heterogeneous Change Detection},   
-  year={2022},  
+  year={2022}}  
   
 ## Running
 
