@@ -38,6 +38,6 @@ If you use this code for your research, please cite our paper. Thank you!
   
 ## Running
 
-Unzip the Zip files (GC) and run the VDF-HCD and SDA-HCD demo files (tested in Matlab 2016a)! 
+Unzip the Zip files (GC) and run the VDF and SDA demo files (tested in Matlab 2016a)! 
 
 If you have any queries, please do not hesitate to contact me (sunyuli@mail.ustc.edu.cn).
